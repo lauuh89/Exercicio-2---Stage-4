@@ -1,5 +1,7 @@
 # Exercicio-2---Stage-4
 
+![Exemplo da aplicação](/docs/gif-da-aplicacao.gif)
+
 - Neste exercício foi pedido:
 
 * Calcular a média dos alunos e dividir por 2
