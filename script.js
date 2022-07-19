@@ -20,13 +20,13 @@ const students = [
   
   {
     name: "Júlia",
-    test1: 9,
+    test1: 4,
     test2: 6
   },
   {
     name: "Benjamin",
-    test1: 4,
-    test2: 9
+    test1: 5,
+    test2: 3
   },
   {
     name: "Aurora",
@@ -37,7 +37,7 @@ const students = [
 ]
 
 function calculateAverage(test1, test2) {
-  const result = ((test1 + test2) / 2).toFixed(2)
+  const result = ((test1 + test2) / 2).toFixed(1)
   return result
 }
 
